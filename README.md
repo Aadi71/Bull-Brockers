@@ -1,4 +1,5 @@
-# Bull-Brockers
+# Bull Brokers
+        by Aadi Jain
 Stock Brokerage Company
 
 This is a initiative started by me personally or can say idea or startup in which I aim to start a brokerage company which will run through its effective ideology and innovative functionality, this will change the whole scenario of Indian Stock Market and beleive me I will be the new bull of the STOCK MARKET.
